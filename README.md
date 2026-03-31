@@ -22,5 +22,12 @@ Each folder represents a specific design movement or pattern, containing:
 10. **Shopify Polaris**: Industry-leading patterns for e-commerce and merchant tools.
 11. **Salesforce Lightning**: Specialized for high-density CRM and complex enterprise workflows.
 
+## Critical UI/UX Patterns (2026 Standards)
+12. **Navigation Patterns**: SaaS hierarchy, sidebars, and command palettes.
+13. **Data Vis Patterns**: Insight-first charting, sparklines, and interactive legends.
+14. **Form Patterns**: High-conversion interaction design, inline validation, and progressive disclosure.
+15. **Checkout Patterns**: Conversion-first retail and SaaS payment flows.
+16. **Dashboard Patterns**: Operational views, KPI cards, and information density.
+
 ---
 *Curated by GHOST 🌑 for the IGWE Ecosystem.*
