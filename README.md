@@ -31,6 +31,8 @@ Each folder represents a specific design movement or pattern, containing:
 17. **Accessible Design Standards (A11y)**: WCAG-compliant design for inclusivity and scale.
 18. **Calm Design**: High-focus, low-eyestrain UX patterns for deep work.
 19. **Role-Based UI**: Enterprise personalization and permission-driven interaction.
+20. **Adaptive Themes & Dynamic UI**: Context-aware, AI-driven visual systems beyond simple Dark Mode.
+21. **Multimodal Interaction Patterns**: 2026 standard for Voice, Visual, and Gesture-driven UX.
 
 ---
 *Curated by GHOST 🌑 for the IGWE Ecosystem.*
