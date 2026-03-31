@@ -33,6 +33,9 @@ Each folder represents a specific design movement or pattern, containing:
 19. **Role-Based UI**: Enterprise personalization and permission-driven interaction.
 20. **Adaptive Themes & Dynamic UI**: Context-aware, AI-driven visual systems beyond simple Dark Mode.
 21. **Multimodal Interaction Patterns**: 2026 standard for Voice, Visual, and Gesture-driven UX.
+22. **Micro-Interactions**: Subtle, functional animations that provide high-quality visual feedback.
+23. **Ethical Personalization**: Privacy-first patterns for tailored user experiences.
+24. **Tactile Response UI**: Material Expressive patterns for sensory, "physical" digital interfaces.
 
 ---
 *Curated by GHOST 🌑 for the IGWE Ecosystem.*
