@@ -28,6 +28,9 @@ Each folder represents a specific design movement or pattern, containing:
 14. **Form Patterns**: High-conversion interaction design, inline validation, and progressive disclosure.
 15. **Checkout Patterns**: Conversion-first retail and SaaS payment flows.
 16. **Dashboard Patterns**: Operational views, KPI cards, and information density.
+17. **Accessible Design Standards (A11y)**: WCAG-compliant design for inclusivity and scale.
+18. **Calm Design**: High-focus, low-eyestrain UX patterns for deep work.
+19. **Role-Based UI**: Enterprise personalization and permission-driven interaction.
 
 ---
 *Curated by GHOST 🌑 for the IGWE Ecosystem.*
