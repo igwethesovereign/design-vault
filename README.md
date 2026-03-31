@@ -13,6 +13,14 @@ Each folder represents a specific design movement or pattern, containing:
 3. **Bento Grid**: Organized, information-dense, Apple-inspired modularity.
 4. **Sovereign Dark (GHOST)**: Tactical, high-contrast, low-eyestrain, neon accents.
 5. **Minimalist SaaS**: Clean, high-whitespace, conversion-focused.
+6. **Agentic AI UX**: Patterns for AI-first, autonomous, human-in-the-loop systems.
+
+## Industry Standard Design Systems
+7. **Material Design 3**: Google's standard for Android and multi-platform personalization.
+8. **Apple HIG**: The "Gold Standard" for consumer-facing, intuitive interfaces.
+9. **IBM Carbon**: Best for accessible, scalable enterprise-level data and SaaS.
+10. **Shopify Polaris**: Industry-leading patterns for e-commerce and merchant tools.
+11. **Salesforce Lightning**: Specialized for high-density CRM and complex enterprise workflows.
 
 ---
 *Curated by GHOST 🌑 for the IGWE Ecosystem.*
