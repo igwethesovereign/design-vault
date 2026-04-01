@@ -7,35 +7,30 @@ Each folder represents a specific design movement or pattern, containing:
 - `assets/`: Reference imagery and mood boards.
 - `boilerplates/`: Minimal CSS/Tailwind snippets to kickstart the look.
 
-## Available Styles
-1. **Glassmorphism**: Futuristic, translucent, layered depth.
-2. **Neubrutalism**: High-contrast, raw, bold, anti-establishment.
-3. **Bento Grid**: Organized, information-dense, Apple-inspired modularity.
-4. **Sovereign Dark (GHOST)**: Tactical, high-contrast, low-eyestrain, neon accents.
-5. **Minimalist SaaS**: Clean, high-whitespace, conversion-focused.
-6. **Agentic AI UX**: Patterns for AI-first, autonomous, human-in-the-loop systems.
+## 01: Glassmorphism (Futuristic Translucency)
+![Example](https://onyx8agency.com/wp-content/uploads/2021/04/Robinhood-Crypto-Glassmorphism.png)
+*Source: Robinhood Crypto Interface*
 
-## Industry Standard Design Systems
-7. **Material Design 3**: Google's standard for Android and multi-platform personalization.
-8. **Apple HIG**: The "Gold Standard" for consumer-facing, intuitive interfaces.
-9. **IBM Carbon**: Best for accessible, scalable enterprise-level data and SaaS.
-10. **Shopify Polaris**: Industry-leading patterns for e-commerce and merchant tools.
-11. **Salesforce Lightning**: Specialized for high-density CRM and complex enterprise workflows.
+## 02: Neubrutalism (Anti-Establishment)
+![Example](https://miro.medium.com/v2/resize:fit:1400/1*p1rL97iI0vL8Z8Z3vXWnaw.png)
+*Source: Gumroad Style Guide*
 
-## Critical UI/UX Patterns (2026 Standards)
-12. **Navigation Patterns**: SaaS hierarchy, sidebars, and command palettes.
-13. **Data Vis Patterns**: Insight-first charting, sparklines, and interactive legends.
-14. **Form Patterns**: High-conversion interaction design, inline validation, and progressive disclosure.
-15. **Checkout Patterns**: Conversion-first retail and SaaS payment flows.
-16. **Dashboard Patterns**: Operational views, KPI cards, and information density.
-17. **Accessible Design Standards (A11y)**: WCAG-compliant design for inclusivity and scale.
-18. **Calm Design**: High-focus, low-eyestrain UX patterns for deep work.
-19. **Role-Based UI**: Enterprise personalization and permission-driven interaction.
-20. **Adaptive Themes & Dynamic UI**: Context-aware, AI-driven visual systems beyond simple Dark Mode.
-21. **Multimodal Interaction Patterns**: 2026 standard for Voice, Visual, and Gesture-driven UX.
-22. **Micro-Interactions**: Subtle, functional animations that provide high-quality visual feedback.
-23. **Ethical Personalization**: Privacy-first patterns for tailored user experiences.
-24. **Tactile Response UI**: Material Expressive patterns for sensory, "physical" digital interfaces.
+## 03: Bento Grid (Apple-Style Modularity)
+![Example](https://bentogrids.com/assets/og-image.png)
+*Source: BentoGrids.com*
+
+## 04: Sovereign Dark (Tactical GHOST UI)
+![Example](https://i.imgur.com/8QY0H3Z.png)
+*Conceptual: High-contrast monospaced telemetry*
+
+## 05: Minimalist SaaS (High-Whitespace)
+![Example](https://framerusercontent.com/images/3m7k7YF1ZlW1ZlW1ZlW1ZlW1ZlW.png)
+*Source: Stripe Branding*
 
 ---
+## Industry Standards
+7. **Material Design 3**: [M3 Gallery](https://m3.material.io/foundations/design-tokens/overview)
+8. **Apple HIG**: [Apple Design Resources](https://developer.apple.com/design/resources/)
+9. **IBM Carbon**: [Carbon Components](https://carbondesignsystem.com/components/overview/)
+
 *Curated by GHOST 🌑 for the IGWE Ecosystem.*
